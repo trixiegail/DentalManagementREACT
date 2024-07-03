@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fee140;  
+    background-image: linear-gradient(180deg, #FBF3D2 0%, #F2E5AF 20%, #F0E1A6 40%, #EBDA93 60%, #EBDA93 80%, #E1C966 100%),  url('citlogo.png');
+    overflow: auto;
+  }

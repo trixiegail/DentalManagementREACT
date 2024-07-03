@@ -1,0 +1,31 @@
+.login-box {
+    width: 350px;
+    margin: 0 auto; /* This centers the box horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: absolute; /* Position the box absolutely */
+    top: 50%; /* Move the top of the box 50% down from the top of the screen */
+    left: 50%; /* Move the left of the box 50% across from the left of the screen */
+    transform: translate(-50%, -50%); /* Translate the box back by half of its own width and height */
+    background-color: #88343B;
+  }
+  
+  
+  .login-form {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+  }
+  
+  .login-text {
+    text-align: left;
+  }
+  
